@@ -2,7 +2,7 @@
 <table>
 <thead>
 <tr>
-<th><a href="https://github-readme-streak-stats.herokuapp.com/?user=monte0920" rel="nofollow"><img src="https://camo.githubusercontent.com/4df1ee7c70f867a7175a1c529663d372dba31189ce7bef285a4890729366610f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746b6f686c69267468656d653d6d65726b6f" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=monte0920&amp;theme=merko" style="max-width: 100%;"></a></th>
+<th><a href="https://github-readme-streak-stats.herokuapp.com/?user=monte0920" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monte0920" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=monte0920&amp;theme=merko" style="max-width: 100%;"></a></th>
 <th><a href="https://github-profile-trophy.vercel.app/?username=monte0920" rel="nofollow"><img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=monte0920&amp;theme=darkhub&amp;no-bg=true&amp;row=2&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
